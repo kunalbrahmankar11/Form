@@ -1,0 +1,37 @@
+
+   form{
+    background-image: url("https://img.freepik.com/premium-vector/overlapping-forms-background_23-2148677060.jpg");
+   
+    background-size: contain;
+    background-repeat: no-repeat;
+
+   }
+   .top{
+     
+      color: rgb(193, 222, 28);
+      font-size: 1cm;
+      
+      
+
+   }
+ .side{
+   display: flex;
+   text-align: center;
+   
+   
+}
+h3{
+ 
+ color: rgb(2, 22, 22);
+}
+body{
+   text-align: start;
+}
+button{
+   color: rgb(255, 72, 10);
+   background-color: blanchedalmond;
+}
+
+  
+
+ 
